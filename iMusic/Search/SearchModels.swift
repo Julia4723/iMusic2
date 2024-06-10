@@ -30,7 +30,6 @@ enum Search {
       }
     }
   }
-  
 }
 
 struct SearchViewModel {
